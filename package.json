@@ -1,0 +1,27 @@
+{
+  "name": "desafio-backend-03-dindin-t06",
+  "version": "1.0.0",
+  "description": "Desafio M3",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeJ-R/desafio-backend-03-dindin-t06.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeJ-R/desafio-backend-03-dindin-t06/issues"
+  },
+  "homepage": "https://github.com/FelipeJ-R/desafio-backend-03-dindin-t06#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.18",
+    "pg": "^8.7.3",
+    "secure-password": "^4.0.0"
+  }
+}
